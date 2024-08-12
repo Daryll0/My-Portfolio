@@ -92,7 +92,7 @@ body{
 }
 
 #home-section{
-    background-image: url("bg.PNG");
+    background-image: url(https://github.com/Daryll0/My-Portfolio/blob/main/bg.PNG);
     background-size: cover;
     background-repeat: repeat;
     display: flex;
